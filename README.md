@@ -28,7 +28,7 @@
 ### 🌟 Let's Connect
 <!-- 🌐 Social Media Icons -->
   <p align="center">
-    <a href="https://github.com/MuskanSoni-Code"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" /></a>
+       <a href="https://github.com/MuskanSoni"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/></a>
     <a href="https://linkedin.com/in/Muskan Soni"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>
     <a href="https://www.instagram.com/muskansoni4341"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/></a>
     <a href="mailto:sonimuskan9451@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/></a>
