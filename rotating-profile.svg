@@ -1,45 +1,47 @@
 <svg width="360" height="360" viewBox="0 0 360 360"
   xmlns="http://www.w3.org/2000/svg">
 
-  <!-- ROTATING BACKGROUND -->
+  <!-- ROTATING RING -->
   <g opacity="0.9">
     <animateTransform
       attributeName="transform"
       type="rotate"
       from="0 180 180"
       to="360 180 180"
-      dur="14s"
+      dur="16s"
       repeatCount="indefinite" />
 
-    <!-- Outer Ring -->
-    <circle cx="180" cy="180" r="155"
+    <circle cx="180" cy="180" r="150"
       fill="none"
       stroke="#1f6feb"
       stroke-width="2"
       stroke-dasharray="6 10"/>
 
-    <!-- Tech Skills -->
     <text x="180" y="20" fill="#1f6feb" font-size="14" text-anchor="middle">HTML</text>
-    <text x="345" y="185" fill="#1f6feb" font-size="14" text-anchor="middle">CSS</text>
-    <text x="180" y="355" fill="#1f6feb" font-size="14" text-anchor="middle">JavaScript</text>
-    <text x="15" y="185" fill="#1f6feb" font-size="14" text-anchor="middle">GitHub</text>
+    <text x="340" y="185" fill="#1f6feb" font-size="14" text-anchor="middle">CSS</text>
+    <text x="180" y="350" fill="#1f6feb" font-size="14" text-anchor="middle">JavaScript</text>
+    <text x="20" y="185" fill="#1f6feb" font-size="14" text-anchor="middle">GitHub</text>
   </g>
 
-  <!-- IMAGE MASK -->
+  <!-- CIRCLE MASK -->
   <defs>
     <clipPath id="profileMask">
-      <circle cx="180" cy="180" r="72"/>
+      <circle cx="180" cy="180" r="85"/>
     </clipPath>
   </defs>
 
   <!-- PROFILE IMAGE -->
-  <image href="https://github.com/MuskanSoni-Code/MuskanSoni-Code/blob/main/profile.png"
-    x="108" y="108"
-    width="144" height="144"
-    clip-path="url(#profileMask)" />
+  <image
+    href="https://raw.githubusercontent.com/MuskanSoni-Code/MuskanSoni-Code/main/profile.png"
+    x="95"
+    y="95"
+    width="170"
+    height="170"
+    clip-path="url(#profileMask)"
+    preserveAspectRatio="xMidYMid slice" />
 
-  <!-- GLOW BORDER -->
-  <circle cx="180" cy="180" r="74"
+  <!-- BORDER -->
+  <circle cx="180" cy="180" r="88"
     fill="none"
     stroke="#1f6feb"
     stroke-width="2"/>
