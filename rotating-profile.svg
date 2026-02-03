@@ -41,7 +41,7 @@
     width="170"
     height="170"
     clip-path="url(#profileMask)"
-    preserveAspectRatio="xMidYMid slice" />
+    preserveAspectRatio="xMidYMid meet" />
 
   <!-- BORDER -->
   <circle
