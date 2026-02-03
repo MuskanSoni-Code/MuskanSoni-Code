@@ -2,12 +2,11 @@
 <h3 align="center">Software Developer | BCA Student</h3>
 
 <p align="center">
-  <a href="https://github.com/MuskanSoni-Code/MuskanSoni-Code/blob/main/Untitled%20design%20(2).png">
-  <img src="rotating-profile.svg" width="360" /> >/a> 
+  <img src="rotating-profile.svg" width="360" alt="Muskan Profile" />
 </p>
 
 <p align="center">
-  I love building clean, modern & user-friendly web interfaces.<br>
+  I love building clean, modern & user-friendly web interfaces.<br/>
   Passionate about learning new technologies and improving every day.
 </p>
 
@@ -29,7 +28,7 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: your-email@gmail.com  
+- 📧 Email: **your-email@gmail.com**
 - 🌐 GitHub: https://github.com/your-username  
 
 ---
