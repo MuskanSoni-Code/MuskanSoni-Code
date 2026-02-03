@@ -2,8 +2,8 @@
 <h3 align="center">Software Developer | BCA Student</h3>
 
 <p align="center">
-  <a href="https://github.com/MuskanSoni-Code/MuskanSoni-Code/blob/main/Untitled%20design%20(2).png"
-  <img src="rotating-profile.svg" width="360" />  
+  <a href="https://github.com/MuskanSoni-Code/MuskanSoni-Code/blob/main/Untitled%20design%20(2).png">
+  <img src="rotating-profile.svg" width="360" /> >/a> 
 </p>
 
 <p align="center">
