@@ -2,8 +2,7 @@
 <h3 align="center">Software Developer | BCA Student</h3>
 
 <p align="center">
-  <img src="rotating-profile.svg" width="360" />
-   
+  <img src="rotating-profile.svg" width="360" />  
 </p>
 
 <p align="center">
