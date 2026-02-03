@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | BCA Student</h3>
 
 <p align="center">
-  <img src="rotating-profile.svg" width="320"/>
+  <img src=""C:\Users\Muskan Soni\Desktop\download.png"" width="320"/>
 </p>
 
 <p align="center">
