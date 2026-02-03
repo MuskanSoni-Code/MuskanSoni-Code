@@ -33,7 +33,7 @@
   </defs>
 
   <!-- PROFILE IMAGE -->
-  <image href="profile.png"
+  <image href="https://github.com/MuskanSoni-Code/MuskanSoni-Code/blob/main/profile.png"
     x="108" y="108"
     width="144" height="144"
     clip-path="url(#profileMask)" />
