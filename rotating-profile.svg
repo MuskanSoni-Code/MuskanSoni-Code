@@ -8,22 +8,25 @@
       type="rotate"
       from="0 180 180"
       to="360 180 180"
-      dur="16s"
+      dur="18s"
       repeatCount="indefinite" />
 
-    <circle cx="180" cy="180" r="150"
+    <circle
+      cx="180"
+      cy="180"
+      r="150"
       fill="none"
       stroke="#1f6feb"
       stroke-width="2"
       stroke-dasharray="6 10"/>
 
-    <text x="180" y="20" fill="#1f6feb" font-size="14" text-anchor="middle">HTML</text>
-    <text x="340" y="185" fill="#1f6feb" font-size="14" text-anchor="middle">CSS</text>
-    <text x="180" y="350" fill="#1f6feb" font-size="14" text-anchor="middle">JavaScript</text>
-    <text x="20" y="185" fill="#1f6feb" font-size="14" text-anchor="middle">GitHub</text>
+    <text x="180" y="18" fill="#1f6feb" font-size="14" text-anchor="middle">HTML</text>
+    <text x="345" y="185" fill="#1f6feb" font-size="14" text-anchor="middle">CSS</text>
+    <text x="180" y="352" fill="#1f6feb" font-size="14" text-anchor="middle">JavaScript</text>
+    <text x="15" y="185" fill="#1f6feb" font-size="14" text-anchor="middle">GitHub</text>
   </g>
 
-  <!-- CIRCLE MASK -->
+  <!-- MASK -->
   <defs>
     <clipPath id="profileMask">
       <circle cx="180" cy="180" r="85"/>
@@ -32,7 +35,7 @@
 
   <!-- PROFILE IMAGE -->
   <image
-    src="https://img.freepik.com/premium-photo/graphic-laptop_931878-304488.jpg"
+    href="profile.jpg"
     x="95"
     y="95"
     width="170"
@@ -41,7 +44,10 @@
     preserveAspectRatio="xMidYMid slice" />
 
   <!-- BORDER -->
-  <circle cx="180" cy="180" r="88"
+  <circle
+    cx="180"
+    cy="180"
+    r="88"
     fill="none"
     stroke="#1f6feb"
     stroke-width="2"/>
