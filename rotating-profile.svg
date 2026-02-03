@@ -36,8 +36,8 @@
   <!-- PROFILE IMAGE -->
   <image
     href="https://raw.githubusercontent.com/MuskanSoni-Code/MuskanSoni-Code/main/profile.png"
-    x="95"
-    y="95"
+    x="70"
+    y="70"
     width="170"
     height="170"
     clip-path="url(#profileMask)"
