@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="rotating-profile.svg" width="360" />
+   <img src="profile.png"/>
 </p>
 
 <p align="center">
