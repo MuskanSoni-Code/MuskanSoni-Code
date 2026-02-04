@@ -3,8 +3,9 @@
 
 <!-- Profile Photo -->
 <p align="center">
-  <img src="profile.png" width="180" style="border-radius:50%" />
+  <img src="profile.png" width="180" height="180" style="border-radius:50%; object-fit:cover;" />
 </p>
+
 
 <!-- Rotating Skills Ring -->
 <p align="center">
