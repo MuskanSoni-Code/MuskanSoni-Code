@@ -1,45 +1,43 @@
-<h1 align="center">Hi 👋 I'm Muskan</h1>
-<h3 align="center">Software Developer | BCA Student</h3>
-
-<!-- Profile Photo -->
-<p align="center">
-  <img src="profile.png" width="180" height="180" style="border-radius:50%; object-fit:cover;" />
-</p>
-
-
-<!-- Rotating Skills Ring -->
-<p align="center">
-  <img src="rotating-profile.svg" width="360" />
-</p>
-
-<p align="center">
-  I love building clean, modern & user-friendly web interfaces.<br/>
-  Passionate about learning new technologies and improving every day.
-</p>
+<h1 align="center">Hi 👋, I'm Muskan</h1>
+<h3 align="center">💻 Software Developer | BCA Student</h3>
 
 ---
 
-## 🛠 Tech Stack
+<div align="center">
+  <img
+    src="./profile.png"
+    width="180"
+    style="border-radius: 50%; border: 4px solid #4caf50"
+  />
+</div>
+
+--- ## 👩‍💻 About Me - 🎓 BCA Student - 💻 Learning Web Development - 🌱 Currently
+learning JavaScript & React - 🚀 Goal → Become Software Developer --- ## 🚀 My
+Skills
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,github" />
+</div>
+
+--- ## 📊 GitHub Stats
+
+<div align="center">
+  <img
+    height="160em"
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"
+  />
+
+  <img
+    height="160em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"
+  />
+</div>
+
+--- ## 🌐 Connect With Me
+
 <p align="center">
-  HTML • CSS • JavaScript • Git • GitHub
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
----
-
-## 👩‍💻 About Me
-
-- 🎓 BCA Student  
-- 💻 Front-End & UI Focused  
-- 🌱 Currently Learning JavaScript  
-- 🎯 Goal: Become Professional Full-Stack Developer  
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: your-email@gmail.com  
-- 🌐 GitHub: https://github.com/your-username  
-
----
-
-⭐ If you like my profile, don’t forget to star my repositories!
+--- ⭐ From Muskan
