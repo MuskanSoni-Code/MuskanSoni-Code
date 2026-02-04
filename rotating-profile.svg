@@ -1,7 +1,6 @@
 <svg width="360" height="360" viewBox="0 0 360 360"
   xmlns="http://www.w3.org/2000/svg">
 
-  <!-- ROTATING RING -->
   <g opacity="0.9">
     <animateTransform
       attributeName="transform"
@@ -9,16 +8,11 @@
       from="0 180 180"
       to="360 180 180"
       dur="18s"
-      repeatCount="indefinite" />
+      repeatCount="indefinite"/>
 
-    <circle
-      cx="180"
-      cy="180"
-      r="150"
-      fill="none"
-      stroke="#1f6feb"
-      stroke-width="2"
-      stroke-dasharray="6 10"/>
+    <circle cx="180" cy="180" r="150"
+      fill="none" stroke="#1f6feb"
+      stroke-width="2" stroke-dasharray="6 10"/>
 
     <text x="180" y="18" fill="#1f6feb" font-size="14" text-anchor="middle">HTML</text>
     <text x="345" y="185" fill="#1f6feb" font-size="14" text-anchor="middle">CSS</text>
@@ -26,29 +20,19 @@
     <text x="15" y="185" fill="#1f6feb" font-size="14" text-anchor="middle">GitHub</text>
   </g>
 
-  <!-- MASK -->
   <defs>
     <clipPath id="profileMask">
       <circle cx="180" cy="180" r="85"/>
     </clipPath>
   </defs>
 
-  <!-- PROFILE IMAGE -->
   <image
     href="https://raw.githubusercontent.com/MuskanSoni-Code/MuskanSoni-Code/main/profile.png"
-    x="70"
-    y="70"
-    width="220"
-    height="220"
+    x="70" y="70"
+    width="220" height="220"
     clip-path="url(#profileMask)"
-    preserveAspectRatio="xMidYMid meet" />
+    preserveAspectRatio="xMidYMid slice"/>
 
-  <!-- BORDER -->
-  <circle
-    cx="180"
-    cy="180"
-    r="88"
-    fill="none"
-    stroke="#1f6feb"
-    stroke-width="2"/>
+  <circle cx="180" cy="180" r="88"
+    fill="none" stroke="#1f6feb" stroke-width="2"/>
 </svg>
