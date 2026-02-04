@@ -7,7 +7,7 @@
   <img
     src="./profile.png"
     width="180"
-    style="border-radius: 50%; border: 4px solid #4caf50"
+    style="border-radius: 100%; border: 4px solid #4caf50"
   />
 </div>
 
