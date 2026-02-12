@@ -31,7 +31,7 @@
 
   <!-- Profile Image -->
   <image 
-    href="./profile.png"
+    href="https://github.com/MuskanSoni-Code/MuskanSoni-Code/blob/main/profile.png?raw=true"
     x="60"
     y="60"
     width="180"
