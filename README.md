@@ -1,78 +1,86 @@
-<h1 align="center">Hi 👋, I'm Muskan</h1>
-<h3 align="center">🚀 Software Developer | BCA Student</h3>
-
-<p align="center"><i>Code • Create • Grow</i></p>
-
----
-
 <div align="center">
-  <img src="profile.png" width="190"/>
+
+<h1 style="color:#58a6ff;">Hi 👋 I'm Muskan</h1>
+<h3 style="color:white;">Web Developer | BCA Student | Tech Learner</h3>
+
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=480&lines=Front-End+Developer;Learning+Full+Stack;Love+Clean+UI+Design;Always+Learning+New+Tech"/>
-</p>
-
----
-
 <div align="center">
 
-<svg width="260" height="260" viewBox="0 0 360 360">
+<svg width="320" height="320" viewBox="0 0 320 320">
 
-<defs>
-<linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="100%">
-<stop offset="0%" stop-color="#00ffff"/>
-<stop offset="100%" stop-color="#8a2be2"/>
-</linearGradient>
-</defs>
+  <!-- Rotating Circle -->
+  <g>
+    <circle cx="160" cy="160" r="140" stroke="#58a6ff" stroke-width="2" fill="none"
+      stroke-dasharray="15 10">
+      <animateTransform 
+        attributeName="transform"
+        type="rotate"
+        from="0 160 160"
+        to="360 160 160"
+        dur="10s"
+        repeatCount="indefinite"/>
+    </circle>
 
-<g>
-<animateTransform
-attributeName="transform"
-type="rotate"
-from="0 180 180"
-to="360 180 180"
-dur="14s"
-repeatCount="indefinite"
-/>
+    <!-- Rotating Text -->
+    <text fill="#58a6ff" font-size="14">
+      <textPath href="#circlePath" startOffset="0%">
+        HTML • CSS • JavaScript • Web Development • GitHub • Coding •
+      </textPath>
+    </text>
 
-<circle
-cx="180"
-cy="180"
-r="150"
-fill="none"
-stroke="url(#neon)"
-stroke-width="3"
-stroke-dasharray="8 10"
-/>
+    <defs>
+      <path id="circlePath"
+        d="M 160,160 m -140,0
+           a 140,140 0 1,1 280,0
+           a 140,140 0 1,1 -280,0"/>
+    </defs>
+  </g>
 
-<text x="180" y="30" fill="#00ffff" font-size="15" text-anchor="middle">
-HTML
-</text>
+  <!-- Profile Image -->
+  <clipPath id="circleView">
+    <circle cx="160" cy="160" r="100"/>
+  </clipPath>
 
-<text x="330" y="185" fill="#8a2be2" font-size="15" text-anchor="middle">
-CSS
-</text>
+  <image 
+    href="./profile.png"
+    x="60"
+    y="60"
+    width="200"
+    height="200"
+    clip-path="url(#circleView)"
+  />
 
-<text x="180" y="340" fill="#00ffff" font-size="15" text-anchor="middle">
-JavaScript
-</text>
-
-<text x="30" y="185" fill="#8a2be2" font-size="15" text-anchor="middle">
-GitHub
-</text>
-
-</g>
 </svg>
 
 </div>
 
 ---
 
-## 🌌 About Me
+## 🚀 About Me
 - 🎓 BCA Student  
-- 💻 Front-End & UI Focused  
-- 🌱 Learning Full Stack Development  
-- 🚀 Dream → Professional Software Engineer
+- 💻 Learning Full Stack Development  
+- 🌱 Currently learning JavaScript & Web Projects  
+- 🔥 Love Building Creative UI  
+
+---
+
+## 🛠 Tech Stack
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
+
+</p>
+
+---
+
+## 📫 Connect With Me
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
