@@ -9,17 +9,7 @@
       dur="16s"
       repeatCount="indefinite" />
 
-    <circle cx="180" cy="180" r="150"
-      fill="none"
-      stroke="#1f6feb"
-      stroke-width="2"
-      stroke-dasharray="6 10"/>
-
-    <text x="180" y="20" fill="#1f6feb" font-size="14" text-anchor="middle">HTML</text>
-    <text x="340" y="185" fill="#1f6feb" font-size="14" text-anchor="middle">CSS</text>
-    <text x="180" y="350" fill="#1f6feb" font-size="14" text-anchor="middle">JavaScript</text>
-    <text x="20" y="185" fill="#1f6feb" font-size="14" text-anchor="middle">GitHub</text>
-  </g>
+    
 
   <!-- CIRCLE MASK -->
   <defs>
