@@ -1,59 +1,47 @@
-<h1 align="center">Hi 👋 I'm Muskan</h1>
-<h3 align="center">Web Developer | BCA Student | Tech Learner</h3>
+<svg width="360" height="360" viewBox="0 0 360 360" xmlns="http://www.w3.org/2000/svg">
 
-<p align="center">
+  <!-- ROTATING RING -->
+  <g opacity="0.9">
+    <animateTransform attributeName="transform"
+      type="rotate"
+      from="0 180 180"
+      to="360 180 180"
+      dur="16s"
+      repeatCount="indefinite" />
 
-<svg width="300" height="300" viewBox="0 0 300 300">
+    <circle cx="180" cy="180" r="150"
+      fill="none"
+      stroke="#1f6feb"
+      stroke-width="2"
+      stroke-dasharray="6 10"/>
 
-  <!-- Rotating Path -->
+    <text x="180" y="20" fill="#1f6feb" font-size="14" text-anchor="middle">HTML</text>
+    <text x="340" y="185" fill="#1f6feb" font-size="14" text-anchor="middle">CSS</text>
+    <text x="180" y="350" fill="#1f6feb" font-size="14" text-anchor="middle">JavaScript</text>
+    <text x="20" y="185" fill="#1f6feb" font-size="14" text-anchor="middle">GitHub</text>
+  </g>
+
+  <!-- CIRCLE MASK -->
   <defs>
-    <path id="circlePath"
-      d="M150,150 m-120,0
-         a120,120 0 1,1 240,0
-         a120,120 0 1,1 -240,0"/>
+    <clipPath id="profileMask">
+      <circle cx="180" cy="180" r="85"/>
+    </clipPath>
   </defs>
 
-  <!-- Rotating Text -->
-  <text fill="#58a6ff" font-size="14" font-weight="bold">
-    <textPath href="#circlePath">
-      HTML • CSS • JavaScript • Web Development • GitHub • Coding •
-      <animate attributeName="startOffset"
-        from="0%" to="100%"
-        dur="10s"
-        repeatCount="indefinite"/>
-    </textPath>
-  </text>
+  <!-- PROFILE IMAGE -->
+  <image
+    href="profile.png"
+    x="95"
+    y="95"
+    width="170"
+    height="170"
+    clip-path="url(#profileMask)"
+    preserveAspectRatio="xMidYMid slice" />
 
-  <!-- Profile Circle Mask -->
-  <clipPath id="profileCircle">
-    <circle cx="150" cy="150" r="90"/>
-  </clipPath>
-
-  <!-- Profile Image -->
-  <image 
-    href="https://github.com/MuskanSoni-Code/MuskanSoni-Code/blob/main/profile.png?raw=true"
-    x="60"
-    y="60"
-    width="180"
-    height="180"
-    clip-path="url(#profileCircle)"
-  />
+  <!-- BORDER -->
+  <circle cx="180" cy="180" r="88"
+    fill="none"
+    stroke="#1f6feb"
+    stroke-width="2"/>
 
 </svg>
-
-</p>
-
----
-
-### 🚀 About Me
-- 🎓 BCA Student  
-- 💻 Learning Full Stack Development  
-- 🌱 Currently learning JavaScript  
-- 🎨 Love UI Designing  
-
----
-
-### 🛠 Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
-</p>
