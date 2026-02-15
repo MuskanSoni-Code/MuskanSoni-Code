@@ -1,7 +1,7 @@
 # Hi 👋 I'm Muskan 🌸
 Web Developer 💻 Learning HTML, CSS, JavaScript 🚀 Exploring Animations
 
-<img src="rotate-profile.svg" width="360">
-
-![My Profile Image](https://raw.githubusercontent.com/MuskanSoni-Code/MuskanSoni-Code/main/profile.png)
+<img src="https://raw.githubusercontent.com/MuskanSoni-Code/MuskanSoni-Code/main/profile.png" 
+     width="200" 
+     style="border-radius:50%; border:5px dashed blue;">
 
