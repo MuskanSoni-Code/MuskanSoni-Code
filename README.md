@@ -4,5 +4,5 @@
 💻 Learning HTML, CSS, JavaScript  
 🚀 Exploring Animations  
 
-![Profile](profile.png)
+rotate-profile.svg
 
