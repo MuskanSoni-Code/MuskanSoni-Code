@@ -1,7 +1,7 @@
 <svg width="360" height="360" viewBox="0 0 360 360"
-  xmlns="http://www.w3.org/2000/svg">
+     xmlns="http://www.w3.org/2000/svg">
 
-  <!-- ROTATING RING -->
+  <!-- ROTATING GROUP -->
   <g opacity="0.9">
     <animateTransform
       attributeName="transform"
@@ -11,40 +11,43 @@
       dur="16s"
       repeatCount="indefinite" />
 
+    <!-- OUTER DASHED CIRCLE -->
     <circle cx="180" cy="180" r="150"
       fill="none"
       stroke="#1f6feb"
       stroke-width="2"
       stroke-dasharray="6 10"/>
 
-    <text x="180" y="20" fill="#1f6feb" font-size="14" text-anchor="middle">HTML</text>
-    <text x="340" y="185" fill="#1f6feb" font-size="14" text-anchor="middle">CSS</text>
-    <text x="180" y="350" fill="#1f6feb" font-size="14" text-anchor="middle">JavaScript</text>
-    <text x="20" y="185" fill="#1f6feb" font-size="14" text-anchor="middle">GitHub</text>
+    <!-- ROTATING TEXT -->
+    <text x="180" y="25" fill="#1f6feb"
+          font-size="14"
+          text-anchor="middle">GitHub</text>
+
+    <text x="335" y="185" fill="#1f6feb"
+          font-size="14"
+          text-anchor="middle">HTML</text>
+
+    <text x="180" y="350" fill="#1f6feb"
+          font-size="14"
+          text-anchor="middle">CSS</text>
+
+    <text x="25" y="185" fill="#1f6feb"
+          font-size="14"
+          text-anchor="middle">JavaScript</text>
   </g>
 
-  <!-- CIRCLE MASK -->
-  <defs>
-    <clipPath id="profileMask">
-      <circle cx="180" cy="180" r="85"/>
-    </clipPath>
-  </defs>
+  <!-- CENTER SOLID CIRCLE -->
+  <circle cx="180" cy="180" r="95"
+    fill="none"
+    stroke="#1f6feb"
+    stroke-width="3"/>
 
   <!-- PROFILE IMAGE -->
   <image
-    href="https://raw.githubusercontent.com/MuskanSoni-Code/MuskanSoni-Code/f13852e6cf9dc036b0d24e5cbadf6a9d4452912a/profile.png
-"
-    x="95"
-    y="95"
-    width="170"
-    height="170"
-    clip-path="url(#profileMask)"
-    preserveAspectRatio="xMidYMid slice" />
-
-  <!-- BORDER -->
-  <circle cx="180" cy="180" r="88"
-    fill="none"
-    stroke="#1f6feb"
-    stroke-width="2"/>
+    href="https://raw.githubusercontent.com/MuskanSoni-Code/MuskanSoni-Code/main/profile.png"
+    x="110"
+    y="110"
+    width="140"
+    height="140"
+    preserveAspectRatio="xMidYMid slice"/>
 </svg>
-
