@@ -27,7 +27,8 @@
   </defs>
 
 <p align="center">
-  <img src="./profile.png" width="160" style="border-radius:50%;" />
+<image href="./profile.png" x="95" y="95" width="170" height="170" clip-path="url(#profileMask)" />
+
 </p>
 
 
