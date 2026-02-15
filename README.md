@@ -4,6 +4,6 @@
 💻 Learning HTML, CSS, JavaScript  
 🚀 Exploring Animations  
 
-<img src="rotate-profile.svg" width="400" margin-left="250">
+<img src="rotate-profile.svg" width="400" margin-left="650">
 
 
