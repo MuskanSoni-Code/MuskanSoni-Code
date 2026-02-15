@@ -40,7 +40,7 @@
   <rect x="105" y="102" width="150" height="157"
       fill="url(#imgpattern)"
       stroke="#1f6feb"
-      stroke-width="3"/>
+      stroke-width="2"/>
 
   <!-- PROFILE IMAGE -->
   <image
