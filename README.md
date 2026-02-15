@@ -4,5 +4,6 @@
 💻 Learning HTML, CSS, JavaScript  
 🚀 Exploring Animations  
 
-rotate-profile.svg
+<img src="rotate-profile.svg" width="300px">
+
 
