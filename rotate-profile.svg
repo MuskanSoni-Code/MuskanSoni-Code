@@ -37,10 +37,10 @@
   </g>
 
   <!-- CENTER SOLID CIRCLE -->
-  <circle cx="180" cy="180" r="95"
-    fill="none"
-    stroke="#1f6feb"
-    stroke-width="3"/>
+  <rect x="105" y="102" width="150" height="157"
+      fill="url(#imgpattern)"
+      stroke="#1f6feb"
+      stroke-width="3"/>
 
   <!-- PROFILE IMAGE -->
   <image
@@ -52,4 +52,6 @@
     width="140"
     height="140"
     preserveAspectRatio="xMidYMid slice"/>
+    
+
 </svg>
