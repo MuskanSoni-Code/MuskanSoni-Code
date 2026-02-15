@@ -1,11 +1,21 @@
-# Hi 👋 I'm Muskan
+<svg width="360" height="360" viewBox="0 0 360 360" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rotating circle -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      from="0 180 180" to="360 180 180" dur="16s" repeatCount="indefinite"/>
+    <circle cx="180" cy="180" r="150" fill="none" stroke="#1f6feb" stroke-width="2" stroke-dasharray="6 10"/>
+  </g>
 
-🌸 Web Developer  
-💻 Learning HTML, CSS, JavaScript  
-🚀 Exploring Animations  
-<p align="centre">
-  
-<img src="rotate-profile.svg" width="400" margin-left="650">
-<img src="profile.png" width="400" margin-left="650">
-</p>
+  <!-- Profile Image in Center -->
+  <defs>
+    <clipPath id="profileMask">
+      <circle cx="180" cy="180" r="85"/>
+    </clipPath>
+  </defs>
 
+  <image href="profile.png"
+         x="95" y="95" width="170" height="170" clip-path="url(#profileMask)" />
+
+  <!-- Center border circle -->
+  <circle cx="180" cy="180" r="88" fill="none" stroke="#1f6feb" stroke-width="2"/>
+</svg>
