@@ -4,9 +4,7 @@
   <!-- 2️⃣ Typing Introduction -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=00FFC6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Muskan+Soni+💫;Creative+Frontend+Developer;I+Love+Designing+Interactive+Web+UI;Building+Beautiful+Experiences+for+the+Web+🚀" alt="Typing Animation" />
-</p>
-<!-- Image-->
-</p>
+</p><!-- Image-->
 <p align="center">
   <img src="rotate-profile.svg" width="360"style="border-radius:50%;">
 </p>
@@ -21,8 +19,6 @@
   <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,c,github,vscode,figma" />
   </p>
-
-
   <!-- 💖 Typing Animation -->
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=F6F7F9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Muskan+Soni+💫;Creative+Frontend+Developer;I+Design+and+Build+Beautiful+Web+Experiences+🎨;Let's+Code+Something+Magical+🚀" alt="Muskan Typing Animation" />
