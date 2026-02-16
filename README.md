@@ -21,3 +21,18 @@
   <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,c,github,vscode,figma" />
   </p>
+
+
+  <!-- 💖 Typing Animation -->
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=F6F7F9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Muskan+Soni+💫;Creative+Frontend+Developer;I+Design+and+Build+Beautiful+Web+Experiences+🎨;Let's+Code+Something+Magical+🚀" alt="Muskan Typing Animation" />
+  </p>
+    <!-- 🧠 Animated Quote -->
+  <p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  </p>
+
+  <!-- 🌊 Wave Footer -->
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff66c4,100:00fff0&height=130&section=footer" />
+  </p>
