@@ -14,7 +14,7 @@
 </p>
  <!-- 🌐 Social Media Icons -->
  
- # Connected me
+ ## Connected me
   <p align="center">
     <a href="https://github.com/MuskanSoni"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/></a>
     <a href="https://linkedin.com/in/Muskan Soni"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>
