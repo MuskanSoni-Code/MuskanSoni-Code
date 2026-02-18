@@ -22,7 +22,7 @@
     <a href="mailto:sonimuskan9451@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/></a>
   </p>
 
-  <h2 align="center">Muskan's GitHub Analytics</h2>
+
   
 # 📊 GitHub Stats 👉:  
 <p align="center">
