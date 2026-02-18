@@ -29,7 +29,8 @@
   
 # 📊 GitHub Stats 👉:  
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuskanSoni-Code&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuskanSoni-Code&theme=highcontrast" />
+
 
 </p>
 <p align="center">
