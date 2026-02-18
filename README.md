@@ -1,6 +1,8 @@
 <!-- Gradient Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8af3,100:5ad1ff&height=130&section=header&text=&fontColor=ffffff&animation=twinkling&fontAlignY=38" alt="Muskan Soni Banner" />
+  <img src="web.png" width="100%"height:auto;  />
+
   <!-- 2️⃣ Typing Introduction -->
   <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <h2 align="center">
